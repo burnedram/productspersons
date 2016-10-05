@@ -32,7 +32,7 @@
 				solved = "products"
 			}
 			var oohneei = getRandomColor();
-			solved.style="color:oohneei";
+			tzigas.style="color:"+oohneei;
 			tzigas.innerHTML = solved;
 		};
 
